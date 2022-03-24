@@ -1,5 +1,5 @@
 # Toast-Notification
-A simple JavaScript project.kkk
+A simple JavaScript project.
 
 You can also check here: https://toast-notification-khusamayasir.netlify.app/
 
